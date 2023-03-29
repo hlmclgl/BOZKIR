@@ -19,7 +19,7 @@
 
 <p align = "center" id="description2">This project was developed by the BOZKIR ROVER TEAM for the TEKNOFEST 2023 Agricultural Unmanned Ground Vehicle Competition.</p>
 
-<p align="center"><img src="https://i.hizliresim.com/rsoho5a.png" alt="project-screenshot" width="1000" height="500/"></p>
+<p align="center"><img src="https://i.hizliresim.com/rsoho5a.png" alt="project-screenshot" width="1000" height="400/"></p>
 
 <p  id="description3">In this project, I took over the team leadership of the BOZKIR Rover Team and at the same time the responsibility of the software department. I have developed instant object detection using the autonomous driving algorithms, user interface and YOLO V3 deep learning algorithm of the Agricultural Unmanned Land Vehicle. Following this, I did the reporting management and data analysis of the entire project.</p>
 
